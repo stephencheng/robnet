@@ -1,4 +1,4 @@
-test
+import sys
+import io
 
-yes
-
+print "hello"
